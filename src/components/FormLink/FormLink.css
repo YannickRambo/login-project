@@ -1,0 +1,14 @@
+.link-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .link {
+    color: cadetblue;
+    transition: .250s;
+    text-decoration: none;
+  }
+  
+  .link:hover{
+    opacity: .8;
+  }
